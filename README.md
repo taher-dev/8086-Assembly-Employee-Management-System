@@ -2,6 +2,13 @@
 
 This project is a simple **Employee Management** application built using **8086 Assembly Language.**
 
+## Preview
+<img width="100%" src="./Assets/images/login-menu.PNG">
+<img width="100%" src="./Assets/images/main-menu.PNG">
+<img width="100%" src="./Assets/images/add-menu.PNG">
+<img width="100%" src="./Assets/images/show-menu.PNG">
+<img width="100%" src="./Assets/images/delete-menu.PNG">
+
 ## Features
 
 - **User Authentication**: Login page to authenticate users before accessing the application.
@@ -24,7 +31,7 @@ This project is a simple **Employee Management** application built using **8086 
     - **Emutaor** - Emu8086 or similar 8086 emulator
 
     <br/>
-    
+
     or
 
     <br/>
