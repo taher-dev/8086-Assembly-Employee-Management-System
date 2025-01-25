@@ -28,7 +28,7 @@ This project is a simple **Employee Management** application built using **8086 
 1. **Setup Environment**:
     <br/>
     To run this application, you need to have the following installed on your system:
-    - **Emutaor** - Emu8086 or similar 8086 emulator
+    - **Emutaor** - Emu8086 (recomended) or similar 8086 emulator
 
     <br/>
 
