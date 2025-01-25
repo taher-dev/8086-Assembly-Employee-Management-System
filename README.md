@@ -24,6 +24,7 @@ This project is a simple **Employee Management** application built using **8086 
     - **Emutaor** - Emu8086 or similar 8086 emulator
     <br/>
     or
+    <br/>
     - **VS Code Extension** - MASM/TASM
 
 2. **Clone the Repository**:
