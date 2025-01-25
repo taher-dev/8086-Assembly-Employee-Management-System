@@ -22,9 +22,13 @@ This project is a simple **Employee Management** application built using **8086 
     <br/>
     To run this application, you need to have the following installed on your system:
     - **Emutaor** - Emu8086 or similar 8086 emulator
+
     <br/>
+    
     or
+
     <br/>
+
     - **VS Code Extension** - MASM/TASM
 
 2. **Clone the Repository**:
