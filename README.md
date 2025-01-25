@@ -1,15 +1,15 @@
-# 8086 Assembly Employee Management System
+# ⌨️ 8086 Assembly Program: <br/> Employee Management System
 
 This project is a simple **Employee Management** application built using **8086 Assembly Language.**
 
-## Preview
+## 📷 Preview
 <img width="100%" src="./Assets/images/login-menu.PNG">
 <img width="100%" src="./Assets/images/main-menu.PNG">
 <img width="100%" src="./Assets/images/add-menu.PNG">
 <img width="100%" src="./Assets/images/show-menu.PNG">
 <img width="100%" src="./Assets/images/delete-menu.PNG">
 
-## Features
+## ✨ Features
 
 - **User Authentication**: Login page to authenticate users before accessing the application.
 - **Operations**:
@@ -18,12 +18,12 @@ This project is a simple **Employee Management** application built using **8086 
   - **Delete**: Remove last added record (similar to stack operstion).
 - **Logout**: Users can temporarily log out of the application.
 
-## Technologies Used
+## 💻 Technologies Used
 
 - **Programming Language**: 8086 Assembly
 - **Emulator**: Emu8086
 
-## Setup Instructions
+## 🛠️ Setup Instructions
 
 1. **Setup Environment**:
     <br/>
